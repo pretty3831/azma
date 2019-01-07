@@ -1,6 +1,6 @@
 token=NTI2OTE2MDQzMDg0Mzk4NjAz.DwMPlg.fy5u6PWfRkqubmpZcCOlbZ8YePE
 owner=433198762706599936
-prefix=az
-game= الدادي ازمه
+prefix=2
+game= 7akawy server
 stayinchannel=true
 songinstatus=true 
